@@ -1,4 +1,4 @@
-<p  align="center"><a href="https://stenioas.github.io/dev.finance"><img src="https://github.com/stenioas/dev.finance/blob/master/assets/logo.svg"></a></p>
+<p  align="center"><a href="https://stenioas.github.io/dev.finance"><img src="https://github.com/stenioas/dev.finance/blob/master/assets/banner-readme.svg?raw=true"></a></p>
 
 <div  style="display: flex; align-items:center; justify-content:center; width:100%;">
 	<p  align="center"  style="max-width: 720px; text-align: justify;">Ajudando você a cuidar das suas finanças! O YouFinance proporciona um maior controle do seu dinheiro. Adicone ou remova receitas e despesas e veja o balanço total.</p>
@@ -16,14 +16,15 @@
 <hr  style="height: 1px">
 
 <p align="center">
-	<img src="https://github.com/stenioas/youmove/blob/master/public/youmove-start.png?raw=true" alt="Start image" width="400px" />
-	<img src="https://github.com/stenioas/youmove/blob/master/public/youmove-cycle.png?raw=true" alt="Cycle image" width="400px" /><br/>
-	<img src="https://github.com/stenioas/youmove/blob/master/public/youmove-end-cycle.png?raw=true" alt="End cycle image" width="400px" />
-	<img src="https://github.com/stenioas/youmove/blob/master/public/youmove-levelup.png?raw=true" alt="LevelUp image" width="400px" /><br/>
+	<img src="https://github.com/stenioas/dev.finance/blob/master/assets/transactions.png?raw=true" alt="Transactions" width="400px" />
+	<img src="https://github.com/stenioas/dev.finance/blob/master/assets/new-transaction.png?raw=true" alt="Create new transaction" width="400px" /><br/>
+	<img src="https://github.com/stenioas/dev.finance/blob/master/assets/mobile-balance.png?raw=true" alt="Mobile balance" width="400px" />
+	<img src="https://github.com/stenioas/dev.finance/blob/master/assets/mobile-transactions.png?raw=true" alt="Mobile transactions" width="400px" /><br/>
+	<img src="https://github.com/stenioas/dev.finance/blob/master/assets/mobile-new-transactions.png?raw=true" alt="Mobile new transaction" width="400px" /><br/>
 </p>
 
-<p  align="center">🚧 YouFinance 🚀 Em construção... 🚧</p>
-<p  align="center">Conheça o app <a  href="https://stenioas.github.io/youfinance">aqui</a>.</p>
+<p  align="center">🚧 dev.finance$ 🚀 Em construção... 🚧</p>
+<p  align="center">Conheça o app <a  href="https://stenioas.github.io/dev.finance">aqui</a>.</p>
 
 <h6 id="features">
 
@@ -46,7 +47,7 @@
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/stenioas/youfinance.git
+$ git clone https://github.com/stenioas/dev.finance.git
 ```
 
 <h6 id="contributing">
