@@ -20,7 +20,7 @@
 	<img src="https://github.com/stenioas/dev.finance/blob/master/assets/new-transaction.png?raw=true" alt="Create new transaction" width="400px" /><br/>
 	<img src="https://github.com/stenioas/dev.finance/blob/master/assets/mobile-balance.png?raw=true" alt="Mobile balance" width="400px" />
 	<img src="https://github.com/stenioas/dev.finance/blob/master/assets/mobile-transactions.png?raw=true" alt="Mobile transactions" width="400px" /><br/>
-	<img src="https://github.com/stenioas/dev.finance/blob/master/assets/mobile-new-transactions.png?raw=true" alt="Mobile new transaction" width="400px" /><br/>
+	<img src="https://github.com/stenioas/dev.finance/blob/master/assets/mobile-new-transaction.png?raw=true" alt="Mobile new transaction" width="400px" /><br/>
 </p>
 
 <p  align="center">🚧 dev.finance$ 🚀 Em construção... 🚧</p>
