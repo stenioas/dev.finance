@@ -1,7 +1,7 @@
 <p  align="center"><a href="https://stenioas.github.io/dev.finance"><img src="https://github.com/stenioas/dev.finance/blob/master/assets/banner-readme.svg?raw=true"></a></p>
 
 <div  style="display: flex; align-items:center; justify-content:center; width:100%;">
-	<p  align="center"  style="max-width: 720px; text-align: justify;">Ajudando você a cuidar das suas finanças! O dev.finance$ proporciona um maior controle do seu dinheiro. Adicone ou remova receitas e despesas e veja o balanço total.</p>
+	<p  align="center"  style="max-width: 720px; text-align: justify;">Ajudando você a cuidar das suas finanças! O dev.finance$ proporciona um maior controle do seu dinheiro. Adicone ou remova receitas e despesas e veja, em tempo real, a saúde do seu bolso.</p>
 </div>
 
 <p  align="center">
